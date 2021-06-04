@@ -1,6 +1,6 @@
 asgiref==3.2.7
 behave==1.2.6
-Django==3.0.6
+Django==3.1.9
 parse==1.15.0
 parse-type==0.5.2
 pytz==2020.1
